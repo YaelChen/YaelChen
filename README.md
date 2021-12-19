@@ -10,7 +10,7 @@ So help me find new challenges and base my new career 💖
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaelChen&layout=compact)](https://github.com/YaelChen/github-readme-stats)
 
-[![GitHub stats-stars,commits,prs,issues,contribs](https://github-readme-stats.vercel.app/api?username=YaelChen&hide=prs,issues)](https://github.com/YaelChen/github-readme-stats)
+[![GitHub stats-stars,commits,prs,issues,contribs](https://github-readme-stats.vercel.app/api?username=YaelChen&hide=prs,commits)](https://github.com/YaelChen/github-readme-stats)
 
 ### Here are some of my favourite repositories 👇
 ![](https://camo.githubusercontent.com/3bd8f18c2151958309b1371aacf498fbe08daff57be1d8bca952491c5db4d5f7/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373532345f746869735f616e696d617465645f626f74746f6d2e676966)
