@@ -1,4 +1,4 @@
-![](https://i.imgur.com/HTisMpC.jpeg)
+![](https://pbs.twimg.com/media/CLgYgxiUsAAkIlU?format=png&name=large)
 ### Hi there 👋
 ### I'm Yael, and I'm a programmer.
 ("we love you Yael!")
