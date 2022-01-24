@@ -3,7 +3,7 @@
 ### I'm Yael, and I'm a programmer.
 ("We love you Yael!")
 
-I was a media specialist then I figuered out my brain asks for more. 🧠 I tend to listen to it 'cause it is smart.
+I was a media specialist then I figuered out that my brain asks for more. 🧠 I tend to listen to it 'cause it is smart.
 I fell in love with Python 🐍 and the rest is history.
 which still being written btw.
 So help me find new challenges and base my career 💖
