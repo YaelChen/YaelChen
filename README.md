@@ -1,18 +1,18 @@
 ![](https://pbs.twimg.com/media/CLgYgxiUsAAkIlU?format=png&name=large)
 ### Hi there 👋
 ### I'm Yael, and I'm a programmer.
-("We love you Yael!")
+("We love you, Yael!")
 
-I was a media specialist then I figuered out that my brain asks for more. 🧠 I tend to listen to it 'cause it is smart.
-I fell in love with Python 🐍 and the rest is history.
-which still being written btw.
+I was a media specialist, then I figuered out that my brain asks for more. 🧠 I tend to listen to it 'cause it is smart.
+I fell in love with Python programming 🐍 and the rest is history.
+which is still being written btw.
 So help me find new challenges and base my career 💖
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaelChen&layout=compact)](https://github.com/YaelChen/github-readme-stats)
 
 [![GitHub stats-stars,commits,prs,issues,contribs](https://github-readme-stats.vercel.app/api?username=YaelChen&hide=prs,contribs)](https://github.com/YaelChen/github-readme-stats)
 
-### Here are some of my favourite repositories 👇
+### Here are some of my favorite repositories 👇
 ![](https://camo.githubusercontent.com/3bd8f18c2151958309b1371aacf498fbe08daff57be1d8bca952491c5db4d5f7/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373532345f746869735f616e696d617465645f626f74746f6d2e676966)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaelChen&repo=Binary_Calculator)](https://github.com/YaelChen/Binary_Calculator)
