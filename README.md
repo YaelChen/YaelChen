@@ -8,7 +8,7 @@ I fell in love with Python programming 🐍 and the rest is history.
 which is still being written btw.
 So help me find new challenges and base my career 💖
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaelChen&layout=compact)](https://github.com/YaelChen/github-readme-stats)
+[![Top Langs](https://gh-stats.com/api/top-langs/?username=YaelChen&layout=compact)](https://github.com/YaelChen/github-readme-stats)
 
 [![GitHub stats-stars,commits,prs,issues,contribs](https://github-readme-stats.vercel.app/api?username=YaelChen&hide=prs,contribs)](https://github.com/YaelChen/github-readme-stats)
 
