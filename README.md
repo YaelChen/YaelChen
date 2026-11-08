@@ -17,7 +17,7 @@ So help me find new challenges and base my career 💖
 https://github.com/YaelChen/Binary_Calculator
 https://github.com/YaelChen/Stairs_riddle
 
-[![Readme Card](https://gh-stats.com/api/pin/?username=YaelChen&repo=Stairs_riddle)]
+![Readme Card](https://gh-stats.com/api/pin/?username=YaelChen&repo=Stairs_riddle)
 
 <!--
 **YaelChen/YaelChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
