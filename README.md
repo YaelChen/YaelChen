@@ -15,8 +15,8 @@ So help me find new challenges and base my career 💖
 ### Here are some of my favorite repositories 👇
 ![](https://camo.githubusercontent.com/3bd8f18c2151958309b1371aacf498fbe08daff57be1d8bca952491c5db4d5f7/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373532345f746869735f616e696d617465645f626f74746f6d2e676966)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaelChen&repo=Binary_Calculator)](https://github.com/YaelChen/Binary_Calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaelChen&repo=Stairs_riddle)](https://github.com/YaelChen/Stairs_riddle)
+[![Readme Card](https://gh-stats.com/api/pin/?username=YaelChen&repo=Binary_Calculator)](https://github.com/YaelChen/Binary_Calculator)
+[![Readme Card](https://gh-stats.com/api/pin/?username=YaelChen&repo=Stairs_riddle)](https://github.com/YaelChen/Stairs_riddle)
 
 <!--
 **YaelChen/YaelChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
